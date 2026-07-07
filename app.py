@@ -102,4 +102,3 @@ Be honest, specific, and encouraging."""
 
         st.divider()
         st.markdown(analysis)
-        st.balloons()
